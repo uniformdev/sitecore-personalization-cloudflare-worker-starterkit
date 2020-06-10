@@ -1,0 +1,6 @@
+name = "sitecore-personalization-cloudflare-worker-starterkit"
+type = "webpack"
+account_id = "YOUR_ACCOUNT_ID"
+workers_dev = true
+route = ""
+zone_id = "YOUR_ZONE_ID"

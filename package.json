@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "@uniformdev/p13n-cloudflare",
+  "version": "1.0.0",
+  "description": "A starter for Cloudflare worker with Uniform Personalization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Uniform Systems, Inc.",
+  "license": "Unlicensed",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "@uniformdev/esi-cloudflare": "^2.0.20610-1"
+  }
+}
